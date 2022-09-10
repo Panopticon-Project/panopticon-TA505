@@ -7,3 +7,5 @@ https://www.securityweek.com/russia-linked-ta505-back-targeting-financial-instit
 https://research.nccgroup.com/2021/11/08/ta505-exploits-solarwinds-serv-u-vulnerability-cve-2021-35211-for-initial-access/
 
 https://research.nccgroup.com/2021/12/01/tracking-a-p2p-network-related-with-ta505/
+
+https://www.prodaft.com/resource/detail/ta505-ta505-groups-tesla-gun-depth-analysis
